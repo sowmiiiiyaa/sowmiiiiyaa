@@ -1,7 +1,7 @@
 <!-- ===================== SOWMIIIIYAA | DEVOPS ===================== -->
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A6+DevOps+Engineer+%E2%9C%A6" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A6+DevOps+Engineer+%E2%9C%A6"/>
 
 </p>
 
@@ -19,11 +19,16 @@
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h2 align="center" style="color:#C77DFF;">Hi, I’m Sowmiya 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=2200&pause=900&color=C77DFF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+Hi%2C+I%E2%80%99m+Sowmiya+%F0%9F%91%8B+%E2%9C%A6" />
+</p>
 
 <p align="center">
-  Aspiring DevOps Engineer | Automating infrastructure & CI/CD | Cloud & Kubernetes enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=1&pause=100000&color=B892FF&center=true&vCenter=true&width=1200&lines=Aspiring+DevOps+Engineer+%7C+Automating+infrastructure+%26+CI%2FCD+%7C+Cloud+%26+Kubernetes+enthusiast" />
 </p>
+
+
+
 
 
 <p align="center">
@@ -31,10 +36,15 @@
 </p>
 
 <p align="center">
-DevOps enthusiast passionate about building reliable, automated, and scalable systems.<br/>
-Currently learning and growing in cloud infrastructure, CI/CD, and modern DevOps practices.<br/>
-Focused on clean workflows, stability, and continuous improvement.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=100000&color=D1C4FF&center=true&vCenter=true&width=900&lines=DevOps+enthusiast+passionate+about+building+reliable%2C+automated%2C+and+scalable+systems." />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=100000&color=D1C4FF&center=true&vCenter=true&width=900&lines=Currently+learning+and+growing+in+cloud+infrastructure%2C+CI%2FCD%2C+and+modern+DevOps+practices." />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=100000&color=D1C4FF&center=true&vCenter=true&width=900&lines=Focused+on+clean+workflows%2C+stability%2C+and+continuous+improvement." />
+</p>
+
 
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
@@ -44,10 +54,9 @@ Focused on clean workflows, stability, and continuous improvement.
 
 
 
-<h3 align="center">
-✦ Skills ✦
-</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&width=420&lines=%E2%9C%A6+Skills+%E2%9C%A6" />
+</p>
 
 <p align="center">
   <!-- Programming & Scripting -->
@@ -69,9 +78,10 @@ Focused on clean workflows, stability, and continuous improvement.
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h3 align="center">
-✦ Currently Learning ✦
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+Currently+Learning+%E2%9C%A6" />
+</p>
+
 
 
 <p align="center">
@@ -86,9 +96,10 @@ Focused on clean workflows, stability, and continuous improvement.
 </p>
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h3 align="center">
-✦ Core DevOps Concepts ✦
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=%E2%9C%A6+Core+DevOps+Concepts+%E2%9C%A6" />
+</p>
+
 
 
 <p align="center">
@@ -98,7 +109,9 @@ Focused on clean workflows, stability, and continuous improvement.
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h3 align="center" style="color:#C77DFF;">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&width=480&lines=%F0%9F%93%8A+GitHub+Activity" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sowmiiiiyaa&theme=midnight-purple&hide_border=true" />
