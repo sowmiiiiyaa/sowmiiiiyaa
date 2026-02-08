@@ -1,13 +1,20 @@
 <!-- ===================== SOWMIIIIYAA | DEVOPS ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=DevOps+Engineer" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=%E2%9C%A6+DevOps+Engineer+%E2%9C%A6" />
+
 </p>
+
 
 <p align="center">
   <img src="https://github.com/sowmiiiiyaa/sowmiiiiyaa/blob/main/so.gif" width="520"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AUTOMATION-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLOUD-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-C77DFF?style=for-the-badge"/>
+</p>
 
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
@@ -33,21 +40,14 @@ Focused on clean workflows, stability, and continuous improvement.
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AUTOMATION-C77DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLOUD-C77DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI/CD-C77DFF?style=for-the-badge"/>
-</p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420"/>
-</p>
-
-<hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
 
-<h3 align="center" style="color:#C77DFF;"> Skills</h3>
+<h3 align="center">
+✦ Skills ✦
+</h3>
+
 
 <p align="center">
   <!-- Programming & Scripting -->
@@ -69,7 +69,10 @@ Focused on clean workflows, stability, and continuous improvement.
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h3 align="center" style="color:#C77DFF;"> Currently Learning</h3>
+<h3 align="center">
+✦ Currently Learning ✦
+</h3>
+
 
 <p align="center">
 
@@ -82,7 +85,11 @@ Focused on clean workflows, stability, and continuous improvement.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
 </p>
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
-<h3 align="center" style="color:#C77DFF;"> Core DevOps Concepts</h3>
+
+<h3 align="center">
+✦ Core DevOps Concepts ✦
+</h3>
+
 
 <p align="center">
   CI/CD · Infrastructure as Code · GitOps · Monitoring & Observability · Linux & Networking Fundamentals
