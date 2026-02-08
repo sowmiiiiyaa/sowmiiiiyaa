@@ -5,12 +5,23 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="420"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="420"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AUTOMATION-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLOUD-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RELIABILITY-C77DFF?style=for-the-badge"/>
+</p>
+
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
 <h2 align="center" style="color:#C77DFF;">Hi, I’m Sowmiya 👋</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="420"/>
+</p>
 
 <p align="center">
 DevOps enthusiast passionate about building reliable, automated, and scalable systems.<br/>
@@ -18,13 +29,8 @@ Currently learning and growing in cloud infrastructure, CI/CD, and modern DevOps
 Focused on clean workflows, stability, and continuous improvement.
 </p>
 
-<hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AUTOMATION-C77DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLOUD-C77DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RELIABILITY-C77DFF?style=for-the-badge"/>
-</p>
+
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
@@ -60,9 +66,6 @@ Focused on clean workflows, stability, and continuous improvement.
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300"/>
-</p>
 
 <p align="center">
   <sub style="color:#B892FF;">
