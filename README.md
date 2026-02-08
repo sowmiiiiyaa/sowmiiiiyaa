@@ -30,27 +30,51 @@ Focused on clean workflows, stability, and continuous improvement.
 </p>
 
 
-
-
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
-<h3 align="center" style="color:#C77DFF;">🧩 What I’m Learning</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-C77DFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kubernetes-C77DFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS-C77DFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Terraform-C77DFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-C77DFF?style=flat-square"/>
-</p>
-
-<hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
 <h3 align="center" style="color:#C77DFF;">☁️ Automation · Cloud · CI/CD</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420"/>
 </p>
+
+<hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
+
+
+<h3 align="center" style="color:#C77DFF;"> Skills</h3>
+
+<p align="center">
+  <!-- Programming & Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+  <!-- OS, Tools & Dev Basics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
+<hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
+<h3 align="center" style="color:#C77DFF;">🌱 Currently Learning</h3>
+
+<p align="center">
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+</p>
+
+
 
 <hr style="border:1px solid #CCCCCC; margin: 40px 0;" />
 
@@ -72,3 +96,4 @@ Focused on clean workflows, stability, and continuous improvement.
     Automate smart. Build calm. Ship with confidence.
   </sub>
 </p>
+
